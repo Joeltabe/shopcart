@@ -1,15 +1,15 @@
 <br />
 <p align="center"><img src="src/assets/logo/pngegg.png" width='100px'></p>
-  <h1 align="center">Shopcart</h1>
+  <h1 align="center">SwiftCart</h1>
   <h3 align="center">Shop smart, shop easy, shop now.</h3>
 
 
   <p align="center">
-    <a href="https://shopcart-midhun.vercel.app/" target="_blank">View Demo</a>
+    <a href="https://SwiftCart-midhun.vercel.app/" target="_blank">View Demo</a>
   </p>
 </p>
 
-<p align="center">Shopcart is an easy-to-use ecommerce platform where you can browse products, add items to your cart, and view detailed product information. You can also leave reviews to help others make informed purchasing decisions. As an admin, you have the ability to create, edit, and delete items, as well as you can see progress of orders shipment as user and manipulate it as admin.</p>
+<p align="center">SwiftCart is an easy-to-use ecommerce platform where you can browse products, add items to your cart, and view detailed product information. You can also leave reviews to help others make informed purchasing decisions. As an admin, you have the ability to create, edit, and delete items, as well as you can see progress of orders shipment as user and manipulate it as admin.</p>
 
 ## ✨ Features
 
@@ -52,7 +52,7 @@
 - Either clone the repo or download the app and open the folder in the cli
 - To clone the repo locally by doing -
 ```sh
-git clone https://github.com/Midhunkumar-se/shopcart.git
+git clone https://github.com/Midhunkumar-se/SwiftCart.git
 ```
 
 ### Step 2: Install dependencies
@@ -72,7 +72,7 @@ git clone https://github.com/Midhunkumar-se/shopcart.git
 # Application presentation and flow:
 
 ## I - Home Page
-When you visit the Shopcart application, the first page you will directed to the home page of the application.
+When you visit the SwiftCart application, the first page you will directed to the home page of the application.
 <img src="readme-images/2-home/1-home.png">
 
 - If you do not have an account, you will have access to the following pages:
@@ -216,4 +216,4 @@ Only users who are logged in as the admin with the email 'admin@gmail.com' will 
 ## Show your support
 
 Please ⭐️ this repository if you liked the project!
-# shopcart
+# SwiftCart
