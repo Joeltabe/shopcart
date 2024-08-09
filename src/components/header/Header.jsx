@@ -100,7 +100,7 @@ const Header = () => {
           name="language"
           id="language"
         >
-          <option value="eng">Eng (IN)</option>
+          <option value="eng">Eng (US)</option>
           <option value="uk-eng">Eng (UK)</option>
         </select>
       </div>
